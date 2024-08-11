@@ -15,10 +15,10 @@ A cohesive collection of visual themes designed for the tools you use every day.
 
 ## 🌍 Applications Roadmap
 
--[ ] **Code Editors:** Visual Studio Code
--[ ] **Terminal Emulators:** Konsole, iTerm2, Warp
--[ ] **Communication Tools:** Slack
--[ ] **Media Players:** Spotify
+- [ ] **Code Editors:** Visual Studio Code
+- [ ] **Terminal Emulators:** Konsole, iTerm2, Warp
+- [ ] **Communication Tools:** Slack
+- [ ] **Media Players:** Spotify
 
 (Many to come as the project evolves!)
 
