@@ -11,6 +11,9 @@ A cohesive collection of visual themes designed for the tools you use every day.
 
 ## 🌍 Applications Roadmap
 
+**Theme:**
+- [x] Palette (json, css, scss, yaml)
+
 **Code Editors:**
 - [ ] Visual Studio Code
 
