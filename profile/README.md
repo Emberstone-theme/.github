@@ -1,11 +1,7 @@
-# Emberstone 🪨
+# Emberstone
 
 **Welcome to Emberstone!**  
 A cohesive collection of visual themes designed for the tools you use every day.
-
-## 🚧 Alpha Stage Notice
-
-**Emberstone is currently in its ALPHA phase.** This means the themes are still in development, and we are actively iterating on design, color palettes, and compatibility. Contributions and feedback are highly appreciated as we work towards our first stable release.
 
 ## ✨ Features
 
