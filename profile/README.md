@@ -12,7 +12,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 ## 🌍 Applications Roadmap
 
 **Theme:**
-- [x] Palette (json, css, scss, yaml)
+- [x] [Palette (json, css, scss, yaml)](https://github.com/Emberstone-theme/palette)
 
 **Code Editors:**
 - [ ] Visual Studio Code
