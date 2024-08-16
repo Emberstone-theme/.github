@@ -19,6 +19,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 
 **Terminal Emulators:**
 - [x] [Konsole](https://github.com/Emberstone-theme/konsole)
+- [x] [Hyper]([https://github.com/Emberstone-theme/konsole](https://github.com/Emberstone-theme/hyper))
 - [ ] iTerm2
 - [ ] Warp
 
