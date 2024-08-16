@@ -18,13 +18,16 @@ A cohesive collection of visual themes designed for the tools you use every day.
 **Code Editors:**
 - [ ] Visual Studio Code
 
+**Browser**
+- [x] [Firefox](https://github.com/Emberstone-theme/firefox)
+
 **Terminal Emulators:**
-- [ ] Konsole
+- [x] [Konsole](https://github.com/Emberstone-theme/konsole)
 - [ ] iTerm2
 - [ ] Warp
 
 **Communication Tools:** 
-- [ ] Slack
+- [x] [Slack](https://github.com/Emberstone-theme/slack)
 - [ ] Discord
 
 **Media Players:** 
@@ -33,7 +36,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 **Websites** (via Stylus)
 - [ ] Reddit
 - [ ] Twitter
-- [ ] ChatGPT
+- [x] [ChatGPT](https://github.com/Emberstone-theme/stylus)
 - [ ] Github
 - [ ] Youtube
 
