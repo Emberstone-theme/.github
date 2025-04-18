@@ -12,7 +12,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 ## 🌍 Applications Roadmap
 
 **Accessibility:**
-- [ ] Color accessibility report 
+- [x] [Color accessibility report](https://github.com/Emberstone-theme/.github/blob/main/profile/accessibility-report.csv) 
 
 **Theme:**
 - [x] [Palette (json, css, scss, yaml)](https://github.com/Emberstone-theme/palette)
