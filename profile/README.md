@@ -27,7 +27,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 - [x] [Konsole](https://github.com/Emberstone-theme/konsole)
 - [x] [Hyper](https://github.com/Emberstone-theme/hyper)
 - [ ] iTerm2
-- [ ] Warp
+- [x] Warp
 
 **Communication Tools:** 
 - [x] [Slack](https://github.com/Emberstone-theme/slack)
