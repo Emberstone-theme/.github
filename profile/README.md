@@ -16,6 +16,7 @@ A cohesive collection of visual themes designed for the tools you use every day.
 
 **Theme:**
 - [x] [Palette (json, css, scss, yaml)](https://github.com/Emberstone-theme/palette)
+- [x] [Wallpapers](https://github.com/Emberstone-theme/wallpapers)
 
 **Code Editors:**
 - [x] [Visual Studio Code](https://github.com/Emberstone-theme/vscode)
