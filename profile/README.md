@@ -1,59 +1,34 @@
 # Emberstone
 
-**Welcome to Emberstone!**  
-A cohesive collection of visual themes designed for the tools you use every day.
+**Emberstone** is a unified collection of visual themes for your daily tools, focused on dark mode with ember accents.
 
-## ✨ Features
+## ✨ Highlights
 
-- **Unified Look and Feel:** Seamlessly transition between apps with consistent color themes.
-- **Dark Mode Focused:** Emberstone themes are designed with a dark mode preference in mind, with ember accents, offering an eye-friendly experience.
-- **As Wide Application Support as possible:** From code editors to terminal emulators and beyond, Emberstone aims to cover a broad range of applications.
+- **Consistent look**: Uniform colors across all your tools.
+- **Dark mode**: Eye comfort, ember accents.
+- **Wide compatibility**: Code, terminal, browser, communication, and more.
 
-## 🌍 Applications Roadmap
+## 🌍 Supported Applications
 
-**Accessibility:**
-- [x] [Color accessibility report](https://github.com/Emberstone-theme/.github/blob/main/profile/accessibility-report.csv) 
+- **Accessibility**: [Color report](https://github.com/Emberstone-theme/.github/blob/main/profile/accessibility-report.csv)
+- **Palette**: [Palette](https://github.com/Emberstone-theme/palette), [Wallpapers](https://github.com/Emberstone-theme/wallpapers)
+- **Code editors**: [VS Code](https://github.com/Emberstone-theme/vscode)
+- **Browsers**: [Firefox](https://github.com/Emberstone-theme/firefox)
+- **Terminals**: [Konsole](https://github.com/Emberstone-theme/konsole), [Hyper](https://github.com/Emberstone-theme/hyper), [Warp](https://github.com/Emberstone-theme/warp), iTerm2 (coming soon)
+- **Communication**: [Slack](https://github.com/Emberstone-theme/slack), Discord (coming soon)
+- **Media**: Spotify (Spicify, coming soon)
+- **Websites (Stylus)**: [ChatGPT](https://github.com/Emberstone-theme/stylus), Reddit, Twitter, Github, Youtube (coming soon)
 
-**Theme:**
-- [x] [Palette (json, css, scss, yaml)](https://github.com/Emberstone-theme/palette)
-- [x] [Wallpapers](https://github.com/Emberstone-theme/wallpapers)
-
-**Code Editors:**
-- [x] [Visual Studio Code](https://github.com/Emberstone-theme/vscode)
-
-**Browser**
-- [x] [Firefox](https://github.com/Emberstone-theme/firefox)
-
-**Terminal Emulators:**
-- [x] [Konsole](https://github.com/Emberstone-theme/konsole)
-- [x] [Hyper](https://github.com/Emberstone-theme/hyper)
-- [ ] iTerm2
-- [x] Warp
-
-**Communication Tools:** 
-- [x] [Slack](https://github.com/Emberstone-theme/slack)
-- [ ] Discord
-
-**Media Players:** 
-- [ ] Spotify (Spicify)
-
-**Websites** (via Stylus)
-- [ ] Reddit
-- [ ] Twitter
-- [x] [ChatGPT](https://github.com/Emberstone-theme/stylus)
-- [ ] Github
-- [ ] Youtube
-
-(Many to come as the project evolves! Feel free to open issue to request other themes)
+*More themes coming! Suggest your ideas or open an issue.*
 
 ## 💬 Contributing
 
-We welcome contributions! Whether it's reporting a bug, requesting a new feature, or directly improving the themes, your input helps shape Emberstone.
+Suggestions, bugs, improvements: open an issue or submit a PR!
 
-## 📢 Feedback & Support
+## 📢 Feedback
 
-Found a bug? Have a feature request? Head over to each project issue page to let us know.
+Your feedback is valuable: use the issues in each project.
 
 ## 📜 License
 
-Emberstone is open-source and available under the MIT License.
+Emberstone is open-source (MIT).
